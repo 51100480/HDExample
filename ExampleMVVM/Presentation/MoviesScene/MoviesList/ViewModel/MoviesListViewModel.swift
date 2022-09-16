@@ -30,7 +30,7 @@ protocol MoviesListViewModelInput {
 }
 
 protocol MoviesListViewModelOutput {
-    var items: Observable<[MoviesListItemViewModel]> { get } /// Also we can calculate view model items on demand:  https://github.com/kudoleh/iOS-Clean-Architecture-MVVM/pull/10/files
+    var items: Observable<[MoviesListItemViewModel]> { get }
     var loading: Observable<MoviesListViewModelLoading?> { get }
     var query: Observable<String> { get }
     var error: Observable<String> { get }
