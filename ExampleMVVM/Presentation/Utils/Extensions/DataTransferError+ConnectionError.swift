@@ -2,7 +2,6 @@
 //  DataTransferError+ConnectionError.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 29.10.19.
 //
 
 import Foundation

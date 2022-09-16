@@ -2,7 +2,6 @@
 //  MoviesSearchFlowCoordinator.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 03.03.19.
 //
 
 import UIKit

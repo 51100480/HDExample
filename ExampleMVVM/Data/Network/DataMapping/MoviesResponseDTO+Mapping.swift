@@ -2,8 +2,6 @@
 //  MoviesResponseDTO+Mapping.swift
 //  Data
 //
-//  Created by Oleh Kudinov on 12.08.19.
-//  Copyright © 2019 Oleh Kudinov. All rights reserved.
 //
 
 import Foundation

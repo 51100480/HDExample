@@ -2,7 +2,6 @@
 //  MoviesQueryListView.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 16.08.19.
 //
 
 import Foundation

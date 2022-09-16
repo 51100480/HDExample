@@ -2,7 +2,6 @@
 //  CoreDataStorage.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 26/03/2020.
 //
 
 import CoreData

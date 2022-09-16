@@ -2,7 +2,6 @@
 //  BackButtonEmptyTitleNavigationBarBehavior.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 03/04/2020.
 //
 
 import UIKit

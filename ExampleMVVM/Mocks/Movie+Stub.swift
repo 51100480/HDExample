@@ -2,7 +2,6 @@
 //  Movie+Stub.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 17/03/2020.
 //
 
 import Foundation

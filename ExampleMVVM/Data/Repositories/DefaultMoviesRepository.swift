@@ -2,9 +2,6 @@
 //  DefaultMoviesRepository.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 01.10.18.
-//
-// **Note**: DTOs structs are mapped into Domains here, and Repository protocols does not contain DTOs
 
 import Foundation
 

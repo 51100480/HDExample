@@ -2,7 +2,6 @@
 //  SearchMoviesUseCaseTests.swift
 //  CodeChallengeTests
 //
-//  Created by Oleh Kudinov on 01.10.18.
 //
 
 import XCTest

@@ -2,7 +2,6 @@
 //  ConnectionError.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 01.10.19.
 //
 
 import Foundation

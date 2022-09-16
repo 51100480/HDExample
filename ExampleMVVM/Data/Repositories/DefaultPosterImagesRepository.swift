@@ -2,7 +2,6 @@
 //  DefaultPosterImagesRepository.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 01.10.18.
 //
 
 import Foundation

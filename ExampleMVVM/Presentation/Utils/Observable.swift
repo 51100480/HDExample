@@ -2,7 +2,6 @@
 //  Observable.swift
 //  ExampleMVVM
 //
-//  Created by Oleh Kudinov on 16.02.19.
 //
 
 import Foundation
