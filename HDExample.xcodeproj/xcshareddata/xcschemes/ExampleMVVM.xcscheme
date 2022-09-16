@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1FA53388201E1FDE00747E55"
                BuildableName = "ExampleMVVM.app"
-               BlueprintName = "ExampleMVVM"
-               ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+               BlueprintName = "HDExample"
+               ReferencedContainer = "container:HDExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,6 +27,15 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1FA53388201E1FDE00747E55"
+            BuildableName = "ExampleMVVM.app"
+            BlueprintName = "HDExample"
+            ReferencedContainer = "container:HDExample.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -34,8 +43,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1FA5339C201E1FDE00747E55"
                BuildableName = "ExampleMVVMTests.xctest"
-               BlueprintName = "ExampleMVVMTests"
-               ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+               BlueprintName = "HDExampleTests"
+               ReferencedContainer = "container:HDExample.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -44,22 +53,11 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1F02DE3122F8507500E40C3A"
                BuildableName = "ExampleMVVMUITests.xctest"
-               BlueprintName = "ExampleMVVMUITests"
-               ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+               BlueprintName = "HDExampleUITests"
+               ReferencedContainer = "container:HDExample.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FA53388201E1FDE00747E55"
-            BuildableName = "ExampleMVVM.app"
-            BlueprintName = "ExampleMVVM"
-            ReferencedContainer = "container:ExampleMVVM.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -77,12 +75,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1FA53388201E1FDE00747E55"
             BuildableName = "ExampleMVVM.app"
-            BlueprintName = "ExampleMVVM"
-            ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+            BlueprintName = "HDExample"
+            ReferencedContainer = "container:HDExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -96,8 +92,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1FA53388201E1FDE00747E55"
             BuildableName = "ExampleMVVM.app"
-            BlueprintName = "ExampleMVVM"
-            ReferencedContainer = "container:ExampleMVVM.xcodeproj">
+            BlueprintName = "HDExample"
+            ReferencedContainer = "container:HDExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
